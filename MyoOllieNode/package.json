@@ -1,0 +1,20 @@
+{
+  "name": "ollie2",
+  "version": "1.0.0",
+  "description": "Ollie control",
+  "main": "Ollie.js",
+  "dependencies": {
+    "myo": "^3.0.0",
+    "noble": "^1.9.1",
+    "noble-mac": "github:timeular/noble-mac",
+    "sphero": "^0.9.2",
+    "ws": "^6.1.2",
+    "xpc-connection": "taoyuan/node-xpc-connection.git"
+  },
+  "resolutions": {
+    "xpc-connection": "taoyuan/node-xpc-connection.git"
+  },
+  "devDependencies": {},
+  "author": "Jelmer Weken",
+  "license": "ISC"
+}
